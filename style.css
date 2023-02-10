@@ -1,0 +1,74 @@
+body {
+  font-family: 'Cute Font', cursive;
+  background: hsla(39, 100%, 76%, 1);
+  background-color: #D1FF9F;
+}
+
+div {
+  text-align: center;
+  border-radius: 20px;
+  background-color: #B7FF6E;
+}
+
+header {
+  text-align: center;
+  border-radius: 20px;
+  background-color: #9BDC54;
+}
+
+hehetitle {
+  color: #5BB300;
+  font-size: 40px;
+  background-color: #B7FF6E;
+  border-radius: 25px;
+}
+
+hehe {
+  font-size: 28px;
+  border-radius: 50px;
+  color: #ffffff;
+}
+
+hehe2 {
+  font-size: 34px;
+  border-radius: 50px;
+  color: #E9FFD1;
+  background-color: #A5FF4C;
+}
+
+.page {
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  text-decoration: none;
+  text-decoration: none;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #003bff;
+  border-radius: 25px;
+}
+
+a:hover {
+  background-color: #002ec7;
+  transition: background-color 0.25s ease-out 100ms;
+}
+
+i {
+  color: white;
+  font-size: 8px;
+  border-radius: 50px;
+  transition: background-color 0.25s ease-out 100ms;
+}
+
+i:hover {
+  background-color: #002ec7;
+}
+
+txt1:hover {
+  background-color: #ffffff;
+  transition: background-color 0.25s ease-out 100ms;
+  transition: color 0.25s ease-out 100ms;
+  color: #003bff;
+}
